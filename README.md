@@ -1,5 +1,4 @@
-# 👋 Hi there, How you doin'?
-## I'm Himanshu Singh. I am web developer.
+# 👋 Hi there, How you doin'?. I'm Himanshu Singh
 
 - 🔭 I’m currently working as Software Developer at Lemnisk.
 - 🌱 I’m currently learning Typescript, Express and MySQL.
