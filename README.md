@@ -1,18 +1,18 @@
 # Hi there, I'm Himansh Singh! 👋
 
+[![Website](https://img.shields.io/website)](https://himanshusingh.site)
 [![GitHub followers](https://img.shields.io/github/followers/singhhimansh?label=Follow&style=social)](https://github.com/singhhimansh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/singhhimansh/)
-[![Twitter](https://img.shields.io/twitter/follow/singhhimansh?style=social)](https://twitter.com/singhhimansh)
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in building scalable web applications and exploring new technologies. I love solving complex problems and contributing to open source projects.
+I'm a passionate software developer with 2.5 years of building scalable web applications and exploring new technologies.
 
-- 🌱 I’m currently learning **Cloud Computing and DevOps**
+- 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📫 How to reach me: [singhhimansh@example.com](mailto:singhhimansh@example.com)
-- ⚡ Fun fact: I love hiking and photography!
+- 💬 Ask me about **JavaScript, Next.js, React.js and Web Development**
+- 📫 How to reach me: [s.himanshusingh56@gmail.com](mailto:s.himanshusingh56@gmail.com)
+- ⚡ Fun fact: I love swimming and movies!
 
 ## 🛠️ Languages and Tools
 
@@ -35,9 +35,8 @@ I'm a passionate software developer with a keen interest in building scalable we
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhhimansh&layout=compact&theme=radical)](https://github.com/singhhimansh)
 
 ## 📫 Connect with Me
-
+- Portfolio: [himanshusingh.site](https://himanshusingh.site/)
 - LinkedIn: [Himansh Singh](https://www.linkedin.com/in/singhhimansh/)
-- Twitter: [@singhhimansh](https://twitter.com/singhhimansh)
-- Email: [singhhimansh@example.com](mailto:singhhimansh@example.com)
+- Email: [s.himanshusingh56@gmail.com](mailto:s.himanshusingh56@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😊
