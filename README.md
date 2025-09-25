@@ -1,6 +1,6 @@
 # Hi there, I'm Himansh Singh! 👋
 
-[![Website](https://img.shields.io/badge/himanshusingh.site-grey?style=for-the-badge&logo=googleearth)](https://thehimanshu.vercel.app/)
+[![Website](https://img.shields.io/badge/thehimanshu.vercel.app-grey?style=for-the-badge&logo=googleearth)](https://thehimanshu.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/singhhimansh?label=Follow&style=social)](https://github.com/singhhimansh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/singhhimansh/)
 
