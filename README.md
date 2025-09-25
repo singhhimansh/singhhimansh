@@ -1,14 +1,14 @@
 # Hi there, I'm Himansh Singh! 👋
 
-[![Website](https://img.shields.io/badge/himanshusingh.site-grey?style=for-the-badge&logo=googleearth)](https://himanshusingh.site)
+[![Website](https://img.shields.io/badge/himanshusingh.site-grey?style=for-the-badge&logo=googleearth)](https://thehimanshu.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/singhhimansh?label=Follow&style=social)](https://github.com/singhhimansh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/singhhimansh/)
 
 ## 🚀 About Me
 
-I'm a passionate software developer with 2.5 years of building scalable web applications and exploring new technologies.
+I'm a passionate software developer with over 3 years of building scalable web applications and exploring new technologies.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN  with GraphQL and MongoDB**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Next.js, React.js and Web Development**
 - 📫 How to reach me: [s.himanshusingh56@gmail.com](mailto:s.himanshusingh56@gmail.com)
@@ -35,7 +35,7 @@ I'm a passionate software developer with 2.5 years of building scalable web appl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhhimansh&layout=compact&theme=radical)](https://github.com/singhhimansh)
 
 ## 📫 Connect with Me
-- Portfolio: [himanshusingh.site](https://himanshusingh.site/)
+- Portfolio: [thehimanshu.vercel.app](https://thehimanshu.vercel.app/)
 - LinkedIn: [Himansh Singh](https://www.linkedin.com/in/singhhimansh/)
 - Email: [s.himanshusingh56@gmail.com](mailto:s.himanshusingh56@gmail.com)
 
