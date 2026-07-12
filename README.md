@@ -1,4 +1,4 @@
-# Hi there, I'm Himansh Singh! 👋
+# Hi there, I'm Himanshu Singh! 👋
 
 [![Website](https://img.shields.io/badge/thehimanshu.vercel.app-grey?style=for-the-badge&logo=googleearth)](https://thehimanshu.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/singhhimansh?label=Follow&style=social)](https://github.com/singhhimansh)
@@ -8,7 +8,7 @@
 
 I'm a passionate software developer with over 3 years of building scalable web applications and exploring new technologies.
 
-- 🌱 I’m currently learning **MERN  with GraphQL and MongoDB**
+<!-- - 🌱 I’m currently learning **MERN  with GraphQL and MongoDB** -->
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Next.js, React.js and Web Development**
 - 📫 How to reach me: [s.himanshusingh56@gmail.com](mailto:s.himanshusingh56@gmail.com)
@@ -26,9 +26,9 @@ I'm a passionate software developer with over 3 years of building scalable web a
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-[![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhhimansh&show_icons=true&theme=radical)](https://github.com/singhhimansh)
+[![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhhimansh&show_icons=true&theme=radical)](https://github.com/singhhimansh) -->
 
 ## 🔥 Top Languages
 
